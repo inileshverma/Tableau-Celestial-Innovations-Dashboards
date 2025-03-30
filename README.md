@@ -21,28 +21,28 @@ This repository contains four interactive Tableau dashboards designed to provide
 * **Key Metrics:** Regional sales, product revenue, sales trends, product quantity sold.
 * **Insights:** Identifies top-performing products and regions to drive sales growth.
 * **Visualizations:** Bar charts, line charts, pie charts, tables.
-* **Image:** ![Salaes Data Analysis](https://github.com/user-attachments/assets/5e001a9d-901d-4d2c-b9c8-2db233e182da)
+  ![Salaes Data Analysis](https://github.com/user-attachments/assets/5e001a9d-901d-4d2c-b9c8-2db233e182da)
 
  ### 2. Finance Analysis Dashboard 💰
 
 * **Key Metrics:** Revenue, expenses, profit, ROI, profit percentage.
 * **Insights:** Provides a comprehensive view of financial performance over time.
 * **Visualizations:** Bar charts, scatter plots, line charts.
-* **Image:** ![Finance Analysis Dashboard](https://github.com/user-attachments/assets/bf490bdf-ab07-4ea2-adb8-ddb2a080ea65)
+  ![Finance Analysis Dashboard](https://github.com/user-attachments/assets/bf490bdf-ab07-4ea2-adb8-ddb2a080ea65)
   
 ### 3. Customer Support Analysis Dashboard 📞
 
 * **Key Metrics:** Unresolved ticket percentage, average resolution time, customer satisfaction score.
 * **Insights:** Identifies areas for improving support efficiency and customer satisfaction.
 * **Visualizations:** Pie charts, bar charts, scatter plots, treemaps.
-* **Image:** ![Customer Support Analysis](https://github.com/user-attachments/assets/78975495-1f06-4160-bb5f-5cd8aea43d30)
+  ![Customer Support Analysis](https://github.com/user-attachments/assets/78975495-1f06-4160-bb5f-5cd8aea43d30)
 
 ### 4. HR Analysis Dashboard 👥
 
 * **Key Metrics:** Average salary, job satisfaction, performance scores, employee distribution.
 * **Insights:** Helps optimize salary distribution and improve employee satisfaction.
 * **Visualizations:** Bar charts, scatter plots, circular bar charts.
-* **Image:** ![HR Analysis Dashboard](https://github.com/user-attachments/assets/ab08b6ea-7319-48c6-a5ce-8c74e6032ce2)
+  ![HR Analysis Dashboard](https://github.com/user-attachments/assets/ab08b6ea-7319-48c6-a5ce-8c74e6032ce2)
 
 ## Process 🛠️
 
