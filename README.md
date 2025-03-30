@@ -12,9 +12,6 @@ This repository contains four interactive Tableau dashboards designed to provide
 ## Datasets Used 💾
 
 - <a href="https://github.com/inileshverma/Tableau-Celestial-Innovations-Dashboards/blob/main/company_data_linked.xlsx">Dataset</a>
-
-## Dashboards Overview 📈
- - <a href="https://github.com/inileshverma/Tableau-Sales-Data-Analysis/blob/main/Tableau.png">View Dashboard</a>
  
  ### 1. Sales Data Analysis Dashboard 🛒
 
